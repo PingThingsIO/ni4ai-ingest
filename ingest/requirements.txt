@@ -1,0 +1,11 @@
+btrdb==5.10.3
+grpcio==1.37.0
+grpcio-tools==1.37.0
+numpy==1.20.2
+pandas==1.2.4
+protobuf==3.15.8
+python-dateutil==2.8.1
+pytz==2021.1
+PyYAML==5.4.1
+six==1.15.0
+tqdm==4.60.0
